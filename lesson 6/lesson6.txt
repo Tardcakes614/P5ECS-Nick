@@ -1,0 +1,56 @@
+\(?\d{3}[-.)](\d{3})[-.]\d{4}
+
+These are some phone numbers 123-456-7890. Also you can call me at 213.555.1234 and of course I'm always reachable at (323)678-4509.
+
+The colors of the rainbow have many colours and the rainbow does not have a single color.
+
+
+I love playing link in smash brothers, my friend's name is lynk.
+
+
+john.doe@providencehigh.org
+phillipj@nasa.com
+juanlop@usc.edu
+
+
+
+
+This
+is
+an amazing
+sequence of words
+Hello
+Goodbye and 
+Go go go Providence!
+
+\w{4}[a-z]
+
+
+Digits 0-9 =\d
+any charecter = .
+any digit 0 or more = \d*
+wild card = .*
+Word charecter (a-z, 0-9) = \w
+
+. - 0 or more
++ - 1 or more
+? - 0 or 1
+{min,max}
+{n}
+
+l[iy]nk
+
+
+
+
+
+
+
+\w+ matches all words
+^\w+
+\w+$
+\b\w{4, 6}\b
+
+[] Charecter classes (serve as an or statment)
+
+[-.]

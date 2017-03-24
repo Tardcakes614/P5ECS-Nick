@@ -1,0 +1,28 @@
+{
+
+"weapons": [
+    {
+    "name": "master sword",
+        "location": "water temple",
+        "red": 200,
+        "green": 200,
+        "blue": 0
+    
+}
+,         
+{  "name": "master shield",
+        "location": "hyrule castle",
+        "red": 0,
+        "green": 200,
+        "blue": 200       },
+          
+          {
+              "name": "potion",
+        "location": ["peach's casstle","viridian city"],
+        "red": 200,
+        "green": 0,
+        "blue": 200
+          }
+         
+ ]
+}
